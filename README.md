@@ -1,21 +1,22 @@
 <div align="center">
 
-<!-- Animated Header using reliable SVG -->
-<a href="https://github.com/louisinnovationsqatar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=130&lines=🏢+Louis+Innovations;Abtikarat+Louis+Trading+%26+Services+WLL" alt="Louis Innovations" />
-</a>
+<!-- Header badges row as visual title -->
+![Company](https://img.shields.io/badge/🏢%20LOUIS%20INNOVATIONS-FF6B35?style=for-the-badge&logoColor=white&labelColor=1a1a2e)
+
+![Tagline](https://img.shields.io/badge/Abtikarat%20Louis%20Trading%20%26%20Services%20WLL-0D1117?style=for-the-badge&color=FF6B35&labelColor=0D1117)
 
 <br/>
 
-<a href="https://github.com/louisinnovationsqatar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Innovation+%7C+Trading+%7C+Technology;🌐+Qatar-Based+Enterprise+Solutions;💡+Building+the+Future+of+Business;⚡+Empowering+Growth+%26+Excellence;🇶🇦+Proudly+Based+in+Doha%2C+Qatar" alt="Typing animation" />
-</a>
+![Innovation](https://img.shields.io/badge/🚀%20Innovation-FF6B35?style=flat-square)
+![Trading](https://img.shields.io/badge/📦%20Trading-58A6FF?style=flat-square)
+![Technology](https://img.shields.io/badge/💻%20Technology-3FB950?style=flat-square)
+![Qatar](https://img.shields.io/badge/🇶🇦%20Qatar-8B31B0?style=flat-square)
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=louisinnovationsqatar&label=Profile%20Views&color=FF6B35&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/louisinnovationsqatar?label=Followers&style=for-the-badge&color=orange)](https://github.com/louisinnovationsqatar)
-![Repos](https://img.shields.io/badge/Qatar-Based-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNk+M9Qz0AEYBxVSF+FAAhKDveksOjmAAAAAElFTkSuQmCC)
+![Qatar Based](https://img.shields.io/badge/Qatar-Based%20Enterprise-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNk+M9Qz0AEYBxVSF+FAAhKDveksOjmAAAAAElFTkSuQmCC)
 
 </div>
 
@@ -109,16 +110,6 @@
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=louisinnovationsqatar&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
@@ -145,12 +136,10 @@
 
 <div align="center">
 
-![Footer](https://img.shields.io/badge/--0D1117?style=for-the-badge)
+![Divider](https://img.shields.io/badge/Innovation%20•%20Trading%20•%20Technology%20•%20Qatar-FF6B35?style=for-the-badge&logoColor=white)
 
 **© 2025 Louis Innovations | Abtikarat Louis Trading and Services WLL | 🇶🇦 Doha, Qatar**
 
 *Building Tomorrow's Solutions Today* ✨
-
-![Wave](https://img.shields.io/badge/Innovation%20•%20Trading%20•%20Technology%20•%20Qatar-FF6B35?style=for-the-badge&logoColor=white)
 
 </div>
