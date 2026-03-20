@@ -1,13 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Louis%20Innovations&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Abtikarat%20Louis%20Trading%20%26%20Services%20WLL&descAlignY=60&descSize=18" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Innovation+%7C+Trading+%7C+Technology;🌐+Qatar-Based+Enterprise+Solutions;💡+Building+the+Future+of+Business;⚡+Empowering+Growth+%26+Excellence)](https://git.io/typing-svg)
+<!-- Animated Header using reliable SVG -->
+<a href="https://github.com/louisinnovationsqatar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&width=800&height=130&lines=🏢+Louis+Innovations;Abtikarat+Louis+Trading+%26+Services+WLL" alt="Louis Innovations" />
+</a>
 
 <br/>
 
+<a href="https://github.com/louisinnovationsqatar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Innovation+%7C+Trading+%7C+Technology;🌐+Qatar-Based+Enterprise+Solutions;💡+Building+the+Future+of+Business;⚡+Empowering+Growth+%26+Excellence;🇶🇦+Proudly+Based+in+Doha%2C+Qatar" alt="Typing animation" />
+</a>
+
+<br/><br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=louisinnovationsqatar&label=Profile%20Views&color=FF6B35&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/louisinnovationsqatar?label=Followers&style=for-the-badge&color=orange)](https://github.com/louisinnovationsqatar)
+![Repos](https://img.shields.io/badge/Qatar-Based-red?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAFUlEQVR42mNk+M9Qz0AEYBxVSF+FAAhKDveksOjmAAAAAElFTkSuQmCC)
 
 </div>
 
@@ -137,10 +145,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+![Footer](https://img.shields.io/badge/--0D1117?style=for-the-badge)
 
-**© 2025 Louis Innovations | Abtikarat Louis Trading and Services WLL | 🇶🇦 Qatar**
+**© 2025 Louis Innovations | Abtikarat Louis Trading and Services WLL | 🇶🇦 Doha, Qatar**
 
 *Building Tomorrow's Solutions Today* ✨
+
+![Wave](https://img.shields.io/badge/Innovation%20•%20Trading%20•%20Technology%20•%20Qatar-FF6B35?style=for-the-badge&logoColor=white)
 
 </div>
