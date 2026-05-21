@@ -26,15 +26,15 @@
 <img align="right" alt="Innovation" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
 
 > **Abtikarat Louis Trading and Services WLL** — A forward-thinking enterprise headquartered in **Qatar**, driving innovation across trading and services with a commitment to excellence, quality, and modern technology solutions.
-
-### Who We Are
-- **Qatar-based** enterprise specializing in trading & services
-- **Abtikarat Louis Trading and Services WLL** — Registered & Trusted
-- **Mission:** Delivering innovative solutions that empower businesses
-- **Vision:** Leading trading & technology solutions provider in the GCC region
-- **Values:** Integrity · Innovation · Excellence · Partnership
-
-<br clear="right"/>
+>
+> ### Who We Are
+> - **Qatar-based** enterprise specializing in trading & services
+> - - **Abtikarat Louis Trading and Services WLL** — Registered & Trusted
+>   - - **Mission:** Delivering innovative solutions that empower businesses
+>     - - **Vision:** Leading trading & technology solutions provider in the GCC region
+>       - - **Values:** Integrity · Innovation · Excellence · Partnership
+>        
+>         - <br clear="right"/>
 
 ---
 
@@ -100,11 +100,11 @@
 ## Business Excellence
 
 ```text
-Market Reach         ██████████░░░░░░   Qatar & GCC Region
-Innovation Index     █████████████░░░   High Performance
-Client Satisfaction  ████████████████   Excellence Standard
-Delivery Speed       ██████████████░░   Rapid Deployment
-Reliability          ████████████████   Enterprise Grade
+Market Reach ██████████░░░░░░ Qatar & GCC Region
+Innovation Index █████████████░░░ High Performance
+Client Satisfaction ████████████████ Excellence Standard
+Delivery Speed ██████████████░░ Rapid Deployment
+Reliability ████████████████ Enterprise Grade
 ```
 
 ---
@@ -123,11 +123,11 @@ Reliability          ████████████████   Enterpri
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/louisinnovationsqatar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Website](https://img.shields.io/badge/Website-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.louis-innovations.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/louisinnovations)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@louisinnovations.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/97470259259)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/LouisInnov)
 
 </div>
 
